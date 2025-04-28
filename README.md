@@ -13,10 +13,10 @@ L'objectif est de classifier efficacement les radiographies en deux catégories 
 ## 📷 Exemple de Radiographies Thoraciques
 
 ### Exemple d'une radiographie NORMALE
-![Radio Normale](assets\radio_normale.jpeg)
+![Radio Normale](assets/radio_normale.jpeg)
 
 ### Exemple d'une radiographie avec PNEUMONIE
-![Radio Pneumonie](assets\radio_pneumonie.jpeg)
+![Radio Pneumonie](assets/radio_pneumonie.jpeg)
 
 ---
 
@@ -95,13 +95,13 @@ Après l'entraînement, le modèle a obtenu les performances suivantes :
 
 ## 📊 Matrices de Confusion
 
-![Matrice de Confusion](assets\courbe_roc.png)
+![Matrice de Confusion](assets/matrice_confusion.png)
 
 ---
 
 ## 📉 Courbes ROC
 
-![Courbe ROC](assets\courbe_roc.png)
+![Courbe ROC](assets/courbe_roc.png)
 
 ---
 
